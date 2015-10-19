@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[fvanlint]]></title>
-        <description><![CDATA[fvanlint]]></description>
+        <title><![CDATA[Over Floris van Lint, ontwerper]]></title>
+        <description><![CDATA[Over Floris van Lint, ontwerper]]></description>
         <link>https://thegrid.ai/fvanlint/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 16:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2015 11:36:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fvanlint/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Floris van Lint]]></title>
+            <description><![CDATA[<article><h1>Floris van Lint</h1><p>Foto van Floris</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a00187b-8e88-4eea-9ea3-496db740e649.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fvanlint/cb2480ec-35e6-495c-a5de-00ef50063160/index.html</link>
+            <guid isPermaLink="false">cb2480ec-35e6-495c-a5de-00ef50063160</guid>
+            <pubDate>Thu, 15 Oct 2015 16:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over Floris van Lint]]></title>
+            <description><![CDATA[<article><h1>Over Floris van Lint</h1><p>Over Floris</p></article>]]></description>
+            <link>https://thegrid.ai/fvanlint/over-floris-van-lint/index.html</link>
+            <guid isPermaLink="false">fea90243-f2de-4558-af68-11343dd9ed5b</guid>
+            <pubDate>Mon, 19 Oct 2015 11:35:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8ef5e4d-6bc6-4106-bfea-2e76686cad62.png">]]></description>
             <link>https://thegrid.ai/fvanlint/ff1fd667-4d39-450d-a5b4-7337f33c389d/index.html</link>
             <guid isPermaLink="false">ff1fd667-4d39-450d-a5b4-7337f33c389d</guid>
             <pubDate>Thu, 15 Oct 2015 16:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Floris van Lint]]></title>
-            <description><![CDATA[<article><h1>Floris van Lint</h1><p>Foto van Floris</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a00187b-8e88-4eea-9ea3-496db740e649.jpg"></article>]]></description>
-            <link>https://thegrid.ai/fvanlint/cb2480ec-35e6-495c-a5de-00ef50063160/index.html</link>
-            <guid isPermaLink="false">cb2480ec-35e6-495c-a5de-00ef50063160</guid>
-            <pubDate>Thu, 15 Oct 2015 16:05:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
