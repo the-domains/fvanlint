@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Over Floris
-datePublished: '2015-10-19T11:35:54.825Z'
-dateModified: '2015-10-19T11:35:42.888Z'
+datePublished: '2015-10-19T11:36:20.560Z'
+dateModified: '2015-10-19T11:36:09.202Z'
 title: Over Floris van Lint
 authors: []
 publisher:
