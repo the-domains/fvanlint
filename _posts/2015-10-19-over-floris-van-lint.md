@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Over Floris
-datePublished: '2015-10-19T11:38:53.371Z'
-dateModified: '2015-10-19T11:38:47.886Z'
+datePublished: '2015-10-19T11:39:13.061Z'
+dateModified: '2015-10-19T11:39:08.001Z'
 title: Over Floris van Lint
 sourcePath: _posts/2015-10-19-over-floris-van-lint.md
 published: true
