@@ -1,32 +1,44 @@
-name: fvanlint
-favicon: null
-layout_spectrum: 0.61897
-typography_spectrum: 0.3569
-title: 'Over Floris van Lint, ontwerper'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.61897
+title: 'Over Floris van Lint, ontwerper'
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5625
+  brandStrength: 0.375
+  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#ff7f00'
     - '#ff4c12'
     - '#ffd7af'
     - '#ff9d3c'
-  brandStrength: 0.375
   lightness: 0.75
-  saturation: 0.5625
-  rhythmicContrast: 0.5
 purpose:
   - name: awareness
-    item: null
     url: null
+    item: null
+favicon: null
+name: fvanlint
+typography_spectrum: 0.3569
