@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: fvanlint
+name: Floris van Lint
 cta:
   bucket: null
   version: null
@@ -37,6 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: 'Over Floris van Lint, ontwerper'
+title: Floris van Lint
 description: Visuele communicatie
 purpose: []
