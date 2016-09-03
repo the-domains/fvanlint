@@ -1,8 +1,30 @@
-title: 'Over Floris van Lint, ontwerper'
-purpose:
-  - name: awareness
-    url: null
-    item: null
+typography_spectrum: 0.3569
+color:
+  saturation: 0.6164874
+  brandStrength: 0.1577061
+  lightness: 1
+  brandColors:
+    - '#ffffff'
+    - '#ff7f00'
+    - '#ff4c12'
+    - '#ffd7af'
+    - '#ff9d3c'
+  rhythmicContrast: 0.4014337
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: fvanlint
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,30 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.6164874
-  brandStrength: 0.1577061
-  lightness: 1
-  brandColors:
-    - '#ffffff'
-    - '#ff7f00'
-    - '#ff4c12'
-    - '#ffd7af'
-    - '#ff9d3c'
-  rhythmicContrast: 0.4014337
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: fvanlint
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3569
-layout_spectrum: 0
+title: 'Over Floris van Lint, ontwerper'
+description: Visuele communicatie
+purpose: []
